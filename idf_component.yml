@@ -1,0 +1,7 @@
+dependencies:
+  cmake_utilities: 0.*
+  idf: '>=5.3'
+description: ESP LCD GC9503
+repository: git@github.com:Kevincoooool/esp_lcd_gcst7703.git
+url: https://github.com/Kevincoooool/esp_lcd_gcst7703
+version: 0.0.1

@@ -1,0 +1,6 @@
+dependencies:
+  lvgl/lvgl: "^9.0.0"
+  esp_lcd_st7703:
+    version: "*"
+    override_path: "../../../esp_lcd_st7703"
+
