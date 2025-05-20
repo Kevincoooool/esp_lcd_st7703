@@ -1,3 +1,4 @@
-# ESP LCD GC9503
+# ESP LCD ST7703
 
-鱼鹰光电3.97寸TFT彩屏 480*800 GC9503 MIPI接口
+鱼鹰光电4寸 720*720 ST7703 MIPI接口
+https://item.taobao.com/item.htm?id=825583892769
